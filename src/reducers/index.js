@@ -7,6 +7,11 @@ export const songsReducer = () => {
       artist: "Kr$na feat.Raftaar",
       duration: "3:08",
     },
+     {
+      title: "Zaruri Nai",
+      artist: "Karma feat. Krsna",
+      duration: "3:08",
+    },
     { title: "Fall Off", artist: "Kr$na", duration: "2:13" },
     { title: "Say My Name", artist: "Kr$na", duration: "2:06" },
   ];
